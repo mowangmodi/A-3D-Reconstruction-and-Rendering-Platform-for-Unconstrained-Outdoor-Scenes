@@ -2,6 +2,9 @@
 
 # 💻 Installation
 This repository implements a platform primarily focused on 3D model loading, image rendering, and information visualization functionalities. It is designed to facilitate the handling and visualization of outdoor unconstrained scene reconstructions.
+ - **Complete interface**
+   ![Complete interface](images/0.png)
+
 
 Make sure you have Git installed. Then run the following command to clone the repository:
 ```bash
