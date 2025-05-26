@@ -1,10 +1,9 @@
 **⚠️ This repository is no longer maintained**
 
 # 💻 Installation
-This implementation only includes libraries that have been actually tested and used, along with their corresponding hardware and software environments. Components that were not used are not listed here.
+This repository implements a platform primarily focused on 3D model loading, image rendering, and information visualization functionalities. It is designed to facilitate the handling and visualization of outdoor unconstrained scene reconstructions.
 
 Make sure you have Git installed. Then run the following command to clone the repository:
-
 ```bash
 git clone https://github.com/mowangmodi/A-3D-Reconstruction-and-Rendering-Platform-for-Unconstrained-Outdoor-Scenes.git
 ```
@@ -13,4 +12,8 @@ git clone https://github.com/mowangmodi/A-3D-Reconstruction-and-Rendering-Platfo
 
 ```bash
 conda env create -f environment.yaml
+```
+# Run
+```bash
+python gui.py
 ```
