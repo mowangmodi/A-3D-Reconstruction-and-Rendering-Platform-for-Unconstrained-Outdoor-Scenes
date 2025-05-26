@@ -6,7 +6,7 @@ This implementation only includes libraries that have been actually tested and u
 Make sure you have Git installed. Then run the following command to clone the repository:
 
 ```bash
-git clone https://github.com/mowangmodi/3D-Surface-Reconstruction-of-Outdoor-Scenes-from-Unconstrained-Images.git.git
+git clone https://github.com/mowangmodi/A-3D-Reconstruction-and-Rendering-Platform-for-Unconstrained-Outdoor-Scenes.git
 ```
 
 - You can create the Conda environment using either of the following methods:
