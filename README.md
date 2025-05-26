@@ -1,6 +1,6 @@
 **⚠️ This repository is no longer maintained**
 
-This repository implements a platform primarily focused on 3D model loading, image rendering, and information visualization functionalities. It is designed to facilitate the handling and visualization of outdoor unconstrained scene reconstructions.
+This repository implements a platform primarily focused on 3D model loading, image rendering, and information visualization functionalities. It is designed to facilitate the handling and visualization of outdoor unconstrained scene reconstructions.The related functionalities are implemented as follows：
 - **Complete interface**  
   ![Complete interface](images/0.png)
 
